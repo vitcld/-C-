@@ -9,7 +9,7 @@ void operacoes_basicas() {
     printf("Digite o primeiro número: ");
     scanf("%lf", &num1);
     printf("Digite a operação (+, -, *, /): ");
-    scanf(" %c", &operacao);  // Note the space before %c to consume any leftover newline character
+    scanf(" %c", &operacao);  
     printf("Digite o segundo número: ");
     scanf("%lf", &num2);
 
