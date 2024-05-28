@@ -1,2 +1,2 @@
-# -C-
-<p>Exercícios da faculdade em linguagem C e C++.</p>
+<h1>C</h1>
+<p>Projetos relacionados a C, C# e C++</p>
